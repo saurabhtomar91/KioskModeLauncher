@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_cgr_logo.png",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/drawable-xxxhdpi/ic_cgr_logo.png"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_cgr_logo.png",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/drawable-xxxhdpi/ic_cgr_logo.png"
+    }
+]

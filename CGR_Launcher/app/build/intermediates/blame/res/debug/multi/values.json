@@ -1,0 +1,2127 @@
+[
+    {
+        "outputFile": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 45,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 59,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 59,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 161,
+                    "endColumn": 45,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 45,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 46,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 50,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 50,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endColumn": 55,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 55,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 43,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 409,
+                        "endColumn": 43,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 47,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 47,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 47,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 47,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 52,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 52,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 36,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 36,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 52,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 52,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 57,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 453,
+                        "endColumn": 57,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 54,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 54,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 37,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 37,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 45,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 45,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endColumn": 51,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 400,
+                        "endColumn": 51,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endColumn": 45,
+                    "endOffset": 934
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 45,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 939,
+                    "endColumn": 53,
+                    "endOffset": 988
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 53,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 993,
+                    "endColumn": 71,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 71,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 41,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 41,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1437
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 47,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 383
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 45,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 59,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 59,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 161,
+                    "endColumn": 45,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 45,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 46,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 50,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 50,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endColumn": 55,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 55,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 43,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 409,
+                        "endColumn": 43,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 47,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 47,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 47,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 47,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 52,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 52,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 36,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 36,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 52,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 52,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 57,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 453,
+                        "endColumn": 57,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 54,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 54,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 37,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 37,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 45,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 45,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endColumn": 51,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 400,
+                        "endColumn": 51,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endColumn": 45,
+                    "endOffset": 934
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 45,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 939,
+                    "endColumn": 53,
+                    "endOffset": 988
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 53,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 993,
+                    "endColumn": 71,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 71,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 41,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 41,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1437
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 47,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 383
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 45,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 59,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 59,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 161,
+                    "endColumn": 45,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 45,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 46,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 50,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 50,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endColumn": 55,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 55,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 43,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 409,
+                        "endColumn": 43,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 47,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 47,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 47,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 47,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 52,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 52,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 36,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 36,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 52,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 52,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 57,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 453,
+                        "endColumn": 57,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 54,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 54,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 37,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 37,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 45,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 45,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endColumn": 51,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 400,
+                        "endColumn": 51,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endColumn": 45,
+                    "endOffset": 934
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 45,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 939,
+                    "endColumn": 53,
+                    "endOffset": 988
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 53,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 993,
+                    "endColumn": 71,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 71,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 41,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 41,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1437
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 47,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 383
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 45,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 59,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 59,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 161,
+                    "endColumn": 45,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 45,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 46,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 50,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 50,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endColumn": 55,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 55,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 43,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 409,
+                        "endColumn": 43,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 47,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 47,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 47,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 47,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 52,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 52,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 36,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 36,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 52,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 52,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 57,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 453,
+                        "endColumn": 57,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 54,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 54,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 37,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 37,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 45,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 45,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endColumn": 51,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 400,
+                        "endColumn": 51,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endColumn": 45,
+                    "endOffset": 934
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 45,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 939,
+                    "endColumn": 53,
+                    "endOffset": 988
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 53,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 993,
+                    "endColumn": 71,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 71,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 41,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 41,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1437
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 47,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 383
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 45,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 59,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 59,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 161,
+                    "endColumn": 45,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 45,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 46,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 50,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 50,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endColumn": 55,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 55,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 43,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 409,
+                        "endColumn": 43,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 47,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 47,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 47,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 47,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 52,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 52,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 36,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 36,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 52,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 52,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 57,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 453,
+                        "endColumn": 57,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 54,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 54,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 37,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 37,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 45,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 45,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endColumn": 51,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 400,
+                        "endColumn": 51,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endColumn": 45,
+                    "endOffset": 934
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 45,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 939,
+                    "endColumn": 53,
+                    "endOffset": 988
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 53,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 993,
+                    "endColumn": 71,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 71,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 41,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 41,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1437
+                },
+                "from": {
+                    "file": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 47,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 383
+                    }
+                }
+            }
+        ]
+    }
+]

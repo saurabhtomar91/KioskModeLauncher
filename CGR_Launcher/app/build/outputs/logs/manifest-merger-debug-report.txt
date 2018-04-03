@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:2:1-83:12
+	package
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.1.1] /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:11:22-73
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:12:22-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:15:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:17:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:18:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:19:5-82
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:19:22-79
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:21:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:22:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:25:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:26:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:27:22-73
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:28:5-71
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:28:22-68
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:29:5-88
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:29:22-85
+application
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:32:5-81:19
+MERGED from [com.android.support:support-v4:23.1.1] /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:35:9-41
+	android:stateNotNeeded
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:37:9-38
+	android:launchMode
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:36:9-44
+	android:allowBackup
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:33:9-35
+	android:icon
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:34:9-45
+activity#wepark.launcher.mobile.android.kioskmode.KioskMode
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:38:9-65:20
+	android:screenOrientation
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:40:13-45
+	android:excludeFromRecents
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:43:13-46
+	android:autoRemoveFromRecents
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:44:13-49
+	android:launchMode
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:41:13-48
+	android:theme
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:46:13-83
+	android:maxRecents
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:45:13-35
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:39:13-38
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.HOME
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.HOME
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:49:17-73
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:49:27-70
+category#android.intent.category.DEFAULT
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:50:27-73
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:52:13-60:29
+data
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:53:17-55:45
+	android:scheme
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:55:21-42
+	android:mimeType
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:54:21-63
+action#android.intent.action.VIEW
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:57:25-66
+intent-filter#android.intent.category.DEFAULT+android.settings.SETTINGS
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:61:13-64:29
+action#android.settings.SETTINGS
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:62:17-68
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:62:25-65
+provider#wepark.launcher.mobile.android.kioskmode.HomescreenProvider
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:67:9-71:102
+	android:authorities
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:69:13-75
+	android:exported
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:70:13-37
+	android:permission
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:71:13-90
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:68:13-46
+receiver#wepark.launcher.mobile.android.kioskmode.BootReceiver
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:75:9-79:20
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:75:19-47
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:76:13-78:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:77:17-79
+	android:name
+		ADDED from /Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/AndroidManifest.xml:77:25-76

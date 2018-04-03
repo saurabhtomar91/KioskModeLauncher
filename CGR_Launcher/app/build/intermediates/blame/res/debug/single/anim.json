@@ -1,0 +1,962 @@
+[
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/animation_enter.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/animation_enter.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_up.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_bottomleft_to_topright.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topleft_to_bottomright.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\flip.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\flip.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/rail.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/rail.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_bottomleft_to_topright.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_up.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\slide_out_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/from_middle_flip.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/from_middle_flip.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/right_out.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/right_out.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/alpha.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/alpha.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_bottom.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/shrink_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_top.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/grow_from_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/animation_leave.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/animation_leave.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_in.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_bottom.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/grow_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/out_to_right.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/out_to_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_out_up.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\bottom_out_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/alpha.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/alpha.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/to_middle_flip.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/to_middle_flip.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pump_bottom.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\pump_bottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_top.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/shrink_from_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/out_to_right.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/out_to_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/out_to_left.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/out_to_left.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/stay_up.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/stay_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomleft_to_topright.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\image_fade_in.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\image_fade_in.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/fadeout.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/fadeout.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_topleft_to_bottomright.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_top.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/grow_from_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_bottom.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/shrink_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomright_to_topleft.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\animation_enter.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\animation_enter.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/hidebottom.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/hidebottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomright_to_topleft.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topright_to_bottomleft.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/right_in.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/right_in.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/flip.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/flip.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/pump_top.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/pump_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\showtop.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\showtop.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadein.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomright_to_topleft.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topright_to_bottomleft.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topright_to_bottomleft.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\showtop.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\showtop.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hidebottom.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\hidebottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_bottom.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/shrink_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/image_fade_in.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/image_fade_in.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topleft_to_bottomright.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_right.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\out_to_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/image_fade_in.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/image_fade_in.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/in_from_left.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/in_from_left.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/bottom_down.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/bottom_down.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_bottomright_to_topleft.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/right_in.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/right_in.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_topright_to_bottomleft.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottom.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\shrink_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/stay_up.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/stay_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_top.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/grow_from_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/out_to_left.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/out_to_left.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_bottomright_to_topleft.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_topleft_to_bottomright.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/slide_in_up.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/translate.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/translate.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/animation_enter.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/animation_enter.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadeout.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_top.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/shrink_from_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/in_from_right.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/in_from_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/right_out.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/right_out.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_up.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\slide_out_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/rotate_scale.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/rotate_scale.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/rotate.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/rotate.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/slide_in_down.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/slide_in_down.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\to_middle_flip.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\to_middle_flip.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/flip.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/flip.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pump_top.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\pump_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_topleft_to_bottomright.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\disappear.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\disappear.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_bottomleft_to_topright.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/hidebottom.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/hidebottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_left.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bounce_scale.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\bounce_scale.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\animation_leave.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\animation_leave.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_scale.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\rotate_scale.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/bottom_down.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/bottom_down.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_right.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\out_to_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottom.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\shrink_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/rail.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/rail.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/bottom_up.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/bottom_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/rotate.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/rotate.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/bottom_out_up.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/bottom_out_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/bottom_out_up.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/bottom_out_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/fadeout.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/fadeout.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/disappear.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/disappear.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/in_from_left.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/in_from_left.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\disappear.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\disappear.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/to_middle_flip.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/to_middle_flip.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/showtop.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/showtop.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomleft_to_topright.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/fadein.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/fadein.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/bounce_scale.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/bounce_scale.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_topright_to_bottomleft.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_top.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\shrink_from_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_top.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\shrink_from_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_bottomright_to_topleft.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\animation_leave.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\animation_leave.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_bottom.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/grow_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\from_middle_flip.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\from_middle_flip.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/bottom_up.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/bottom_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_topleft_to_bottomright.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pump_top.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\pump_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/slide_out_up.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/slide_out_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomleft_to_topright.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/pump_top.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/pump_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/pump_bottom.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/pump_bottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/right_in.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/right_in.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/in_from_right.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/in_from_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/pump_bottom.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/pump_bottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/slide_in_down.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/slide_in_down.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\from_middle_flip.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\from_middle_flip.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_topright_to_bottomleft.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/image_fade_in.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/image_fade_in.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_topleft_to_bottomright.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/bounce_scale.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/bounce_scale.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\flip.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\flip.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_right.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/fadein.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/fadein.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/showtop.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/showtop.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_left.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/right_out.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/right_out.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadeout.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomright_to_topleft.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/in_from_left.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/in_from_left.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/alpha.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/alpha.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_bottomleft_to_topright.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\animation_enter.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\animation_enter.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/animation_enter.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/animation_enter.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_left.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bounce_scale.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\bounce_scale.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/rotate.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/rotate.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_down.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\slide_in_down.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_topright_to_bottomleft.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/bottom_out_up.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/bottom_out_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_out.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\right_out.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topright_to_bottomleft.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\stay_up.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\stay_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/fadein.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/fadein.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_left.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/slide_in_down.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/slide_in_down.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_bottomright_to_topleft.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/hidebottom.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/hidebottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_scale.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\rotate_scale.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/rotate_scale.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/rotate_scale.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_topright_to_bottomleft.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/in_from_right.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/in_from_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/slide_in_up.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_out_up.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\bottom_out_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_bottom.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/grow_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topleft_to_bottomright.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/flip.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/flip.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topleft_to_bottomright.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/animation_leave.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/animation_leave.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pump_bottom.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\pump_bottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/showtop.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/showtop.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/slide_out_up.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/slide_out_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/to_middle_flip.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/to_middle_flip.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomleft_to_topright.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_down.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\slide_in_down.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/bottom_down.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/bottom_down.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_bottomleft_to_topright.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_bottomleft_to_topright.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/fadeout.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/fadeout.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottom.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_top.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\grow_from_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/bottom_up.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/bottom_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rail.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\rail.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/pump_bottom.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/pump_bottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/out_to_left.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/out_to_left.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/rotate_scale.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/rotate_scale.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/disappear.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/disappear.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/grow_from_bottomright_to_topleft.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_right.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/animation_leave.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/animation_leave.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_topleft_to_bottomright.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottom.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadein.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/bounce_scale.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/bounce_scale.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\to_middle_flip.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\to_middle_flip.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\stay_up.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\stay_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/from_middle_flip.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/from_middle_flip.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_top.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/shrink_from_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_bottomright_to_topleft.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_top.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\grow_from_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_in.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/rail.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/rail.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/translate.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/translate.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_out.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\right_out.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hidebottom.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\hidebottom.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/pump_top.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/pump_top.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/translate.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/translate.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/slide_in_up.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/slide_out_up.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/slide_out_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/shrink_from_topright_to_bottomleft.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/from_middle_flip.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/from_middle_flip.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/disappear.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/disappear.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/stay_up.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/anim/stay_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/anim/out_to_right.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/anim/out_to_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rail.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\rail.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_up.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim\\image_fade_in.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\anim\\image_fade_in.xml"
+    }
+]

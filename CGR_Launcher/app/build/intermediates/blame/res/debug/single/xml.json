@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\xml\\device_admin.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/xml/device_admin.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/xml/device_admin.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\MegaParking\\WePark_Launcher\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/xml/device_admin.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/xml/device_admin.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/WePark_Launcher/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/build/intermediates/res/merged/debug/xml/device_admin.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/app/src/main/res/xml/device_admin.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin.xml",
+        "source": "/Users/saurabhtomar/Downloads/WePark_Launcher/D:\\ANPR Project\\Kiosk Mode\\WePark_Launcher\\app\\src\\main\\res\\xml\\device_admin.xml"
+    }
+]

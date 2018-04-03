@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "cgr.launcher.mobile.android.kioskmode"
+        minSdkVersion 19
+        targetSdkVersion 23
+        versionCode 4       //Changed on 28 June 2017
+        versionName "1.0.4" //Changed on 28 June 2017
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:23.1.1'
+    compile files('libs/simplecontentprovider.jar')
+}
