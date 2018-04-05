@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="200dp"
+    android:layout_height="@dimen/_200sdp"
     android:background="@drawable/alert_dialog_bg"
     android:orientation="vertical">
 
@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:background="@drawable/alert_dialog_header_bg"
         android:orientation="vertical"
-        android:padding="15dp">
+        android:padding="@dimen/_10sdp">
 
         <TextView
             android:id="@+id/dialog_txt"
@@ -19,9 +19,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:gravity="center_horizontal"
-            android:text="Password"
+            android:text="Enter WareHouse Name"
             android:textColor="@color/white"
-            android:textSize="18dp" />
+            android:textSize="@dimen/_16sdp" />
 
 
     </LinearLayout>
@@ -29,34 +29,34 @@
     <LinearLayout
         android:id="@+id/ll_value"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/ll_submit_btn"
         android:layout_below="@+id/dialog_header"
+        android:gravity="center"
         android:orientation="vertical">
 
         <EditText
-            android:id="@+id/custom_number_plate"
+            android:id="@+id/edt_warehouse_name"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:layout_marginLeft="25dp"
-            android:layout_marginRight="25dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginLeft="@dimen/_20sdp"
+            android:layout_marginRight="@dimen/_20sdp"
             android:background="@drawable/bg_unselected"
             android:gravity="center_horizontal"
-            android:hint="Enter Password"
-            android:inputType=""
-            android:maxLength="10"
-            android:padding="10dp"
-            android:singleLine="true"
-            android:text=""
+            android:hint="Warehouse Name"
+            android:inputType="text"
+            android:maxLength="50"
+            android:padding="@dimen/_8sdp"
             android:textColor="@color/day_black"
             android:textColorHint="@color/day_black"
-            android:textSize="18dp" />
+            android:textSize="@dimen/_14sdp" />
 
 
     </LinearLayout>
 
     <LinearLayout
+        android:id="@+id/ll_submit_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
@@ -65,30 +65,13 @@
 
         <Button
             android:id="@+id/alert_ok_dialog"
-            android:layout_width="wrap_content"
-            android:layout_height="50dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="10dp"
-            android:layout_marginTop="10dp"
+            android:layout_margin="@dimen/_10sdp"
             android:background="@color/colorPrimary"
-            android:text="Ok"
-            android:padding="5dp"
-            android:layout_margin="10dp"
-            android:textColor="@color/white"
-            android:textSize="18dp"
-            android:textStyle="bold" />
-
-        <Button
-            android:id="@+id/alert_cancel_dialog"
-            android:layout_width="wrap_content"
-            android:layout_height="50dp"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="10dp"
-            android:layout_marginTop="10dp"
-            android:background="@color/colorPrimary"
-            android:text="Cancel"
-            android:padding="5dp"
-            android:layout_margin="10dp"
+            android:padding="@dimen/_5sdp"
+            android:text="Submit"
             android:textColor="@color/white"
             android:textSize="18dp"
             android:textStyle="bold" />

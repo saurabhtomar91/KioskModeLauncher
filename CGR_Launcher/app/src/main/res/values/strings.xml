@@ -12,4 +12,8 @@
     <string name="configure">Configure Demo Mode</string>
     <string name="toast_incorrect_password">Incorrect password</string>
 
+    <string name="device_token_updated">Device token is updated</string>
+    <string name="unable_to_process">OOPS! We are unable to process your request,Please login again.</string>
+    <string name="please_connect_to_internet">Please connect to internet for accessing server</string>
+
 </resources>

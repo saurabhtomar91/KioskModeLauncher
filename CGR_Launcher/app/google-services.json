@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "504296683586",
+    "firebase_url": "https://cgr-launcher.firebaseio.com",
+    "project_id": "cgr-launcher",
+    "storage_bucket": "cgr-launcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504296683586:android:c67bd6dfcd20ff67",
+        "android_client_info": {
+          "package_name": "cgr.launcher.mobile.android.kioskmode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504296683586-0g984hml080b98p5gfuso59vq1tutgi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxz-eZMLKAYTo0xe2lCwYWe3QifmwjJeY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

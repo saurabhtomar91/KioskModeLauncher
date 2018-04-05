@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">504296683586-0g984hml080b98p5gfuso59vq1tutgi5.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cgr-launcher.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">504296683586</string>
+    <string name="google_api_key" translatable="false">AIzaSyCxz-eZMLKAYTo0xe2lCwYWe3QifmwjJeY</string>
+    <string name="google_app_id" translatable="false">1:504296683586:android:c67bd6dfcd20ff67</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCxz-eZMLKAYTo0xe2lCwYWe3QifmwjJeY</string>
+    <string name="google_storage_bucket" translatable="false">cgr-launcher.appspot.com</string>
+    <string name="project_id" translatable="false">cgr-launcher</string>
+</resources>

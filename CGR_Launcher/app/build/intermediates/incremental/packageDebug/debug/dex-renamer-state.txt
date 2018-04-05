@@ -1,0 +1,4 @@
+#Thu Apr 05 12:53:38 IST 2018
+base.0=/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/saurabhtomar/Desktop/KioskModeLauncher/CGR_Launcher/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- Production URLs -->
+    <!-- <string name="cgr_url">http://cgrmandi.com/ws/</string>
+     <string name="cgr_cdn_url">http://cgrmandi.com/cdn/</string>
+     <string name="cgr_ui_url">http://cgrmandi.com/</string>
+   -->
+
+    <!-- Staging URLs -->
+    <!--<string name="cgr_url">http://52.66.107.189:8080/</string>-->
+    <!--<string name="cgr_cdn_url">http://52.66.107.189:8080</string>-->
+    <!--<string name="cgr_ui_url">http://52.66.107.189:8080/</string>-->
+
+    <!-- Local URLs -->
+    <string name="cgr_url">http://192.168.1.179:8080/</string>
+    <string name="cgr_cdn_url">http://192.168.1.179:8080</string>
+    <string name="cgr_ui_url">http://192.168.1.179:8080/</string>
+
+    <string name="cgr_key">CGR Group we are in agriculture sector, we are into collateral management.</string>
+    <string name="cgr_iv">{10,90,76,25,7,2,5,45,23,09,22,14}</string>
+
+    <string name="cgr_html_2_pdf_converter_API_KEY">5e23a0ef-6b0a-44d2-8439-6fec50d43705</string>
+
+</resources>

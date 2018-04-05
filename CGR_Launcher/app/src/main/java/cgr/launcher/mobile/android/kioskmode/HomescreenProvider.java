@@ -9,7 +9,7 @@ import edu.mit.mobile.android.content.SimpleContentProvider;
 
 public class HomescreenProvider extends SimpleContentProvider {
 
-	public static final String AUTHORITY = "wepark.launcher.mobile.android.kioskmode";
+	public static final String AUTHORITY = "cgr.launcher.mobile.android.kioskmode";
 
 	private static final int DB_VERSION = 1;
 

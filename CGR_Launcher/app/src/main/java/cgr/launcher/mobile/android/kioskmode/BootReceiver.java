@@ -6,7 +6,7 @@ import android.content.Intent;
 
 
 /**
- * Created by domachine on 07.05.15.
+ * Created by Saurabh Tomar on 07.05.15.
  */
 public class BootReceiver extends BroadcastReceiver {
     @Override
